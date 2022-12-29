@@ -1,103 +1,100 @@
-2
-3
-5
-7
-11
-12
-14
-16
-20
-21
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Beautiful Number #1: 2
+Beautiful Number #2: 3
+Beautiful Number #3: 5
+Beautiful Number #4: 7
+Beautiful Number #5: 11
+Beautiful Number #6: 12
+Beautiful Number #7: 14
+Beautiful Number #8: 16
+Beautiful Number #9: 20
+Beautiful Number #10: 21
+Beautiful Number #11: 23
+Beautiful Number #12: 25
+Beautiful Number #13: 29
+Beautiful Number #14: 30
+Beautiful Number #15: 32
+Beautiful Number #16: 34
+Beautiful Number #17: 38
+Beautiful Number #18: 39
+Beautiful Number #19: 41
+Beautiful Number #20: 43
+Beautiful Number #21: 47
+Beautiful Number #22: 48
+Beautiful Number #23: 50
+Beautiful Number #24: 52
+Beautiful Number #25: 56
+Beautiful Number #26: 57
+Beautiful Number #27: 59
+Beautiful Number #28: 61
+Beautiful Number #29: 65
+Beautiful Number #30: 66
+Beautiful Number #31: 68
+Beautiful Number #32: 70
+Beautiful Number #33: 74
+Beautiful Number #34: 75
+Beautiful Number #35: 77
+Beautiful Number #36: 79
+Beautiful Number #37: 83
+Beautiful Number #38: 84
+Beautiful Number #39: 86
+Beautiful Number #40: 88
+Beautiful Number #41: 92
+Beautiful Number #42: 93
+Beautiful Number #43: 95
+Beautiful Number #44: 97
+Beautiful Number #45: 101
+Beautiful Number #46: 102
+Beautiful Number #47: 104
+Beautiful Number #48: 106
+Beautiful Number #49: 110
+Beautiful Number #50: 111
+Beautiful Number #51: 113
+Beautiful Number #52: 115
+Beautiful Number #53: 119
+Beautiful Number #54: 120
+Beautiful Number #55: 122
+Beautiful Number #56: 
+Beautiful Number #57: 
+Beautiful Number #58: 
+Beautiful Number #59: 
+Beautiful Number #60: 
+Beautiful Number #61: 
+Beautiful Number #62: 
+Beautiful Number #63: 
+Beautiful Number #64: 142
+Beautiful Number #65: 146
+Beautiful Number #66: 147
+Beautiful Number #67: 149
+Beautiful Number #68: 151
+Beautiful Number #69: 155
+Beautiful Number #70: 156
+Beautiful Number #71: 158
+Beautiful Number #72: 160
+Beautiful Number #73: 164
+Beautiful Number #74: 165
+Beautiful Number #75: 167
+Beautiful Number #76: 169
+Beautiful Number #77: 173
+Beautiful Number #78: 174
+Beautiful Number #79: 176
+Beautiful Number #80: 178
+Beautiful Number #81: 182
+Beautiful Number #82: 183
+Beautiful Number #83: 185
+Beautiful Number #84: 
+Beautiful Number #85: 
+Beautiful Number #86: 
+Beautiful Number #87: 
+Beautiful Number #88: 
+Beautiful Number #89: 200
+Beautiful Number #90: 201
+Beautiful Number #91: 203
+Beautiful Number #92: 205
+Beautiful Number #93: 209
+Beautiful Number #94: 210
+Beautiful Number #95: 212
+Beautiful Number #96: 214
+Beautiful Number #97: 218
+Beautiful Number #98: 219
+Beautiful Number #99: 
+Beautiful Number #100: 
